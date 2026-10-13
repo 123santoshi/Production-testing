@@ -1,13 +1,10 @@
-<<<<<<< HEAD
 def add():
     print("Adding two numbers")
     a=input("enter a==")
     b=input("enter b==")
     c=input("enter c==")
-    return a+b
+    return a+b+c
 
-=======
->>>>>>> feature2
 def sub():
     print("Subtracting two numbers")
     a=input("enter a==")
