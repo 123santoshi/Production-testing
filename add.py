@@ -3,5 +3,5 @@ def add():
     a=input("enter a==")
     b=input("enter b==")
     c=input("enter c==")
-    return a+b
+    return a+b+c
 add()
