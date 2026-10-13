@@ -1,4 +1,6 @@
 def add():
     print("Adding two numbers")
-    return 6+7
+    a=input("enter a==")
+    b=input("enter b==")
+    return a+b
 add()
