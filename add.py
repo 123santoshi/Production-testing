@@ -1,3 +1,4 @@
 def add():
-    return 5+3
+    print("Adding two numbers")
+    return 6+7
 add()
